@@ -1,0 +1,19 @@
+
+modLoader="javafml"
+loaderVersion="[38,)"
+license="MIT"
+
+
+
+[[mods]] #mandatory
+modId="sharkmod" 
+version="${1.0}" 
+displayName="Shark Mod"
+logoFile="Cover.png"
+credits="Alpha, and his Gecs, and Sanguis for moral support ig" 
+authors="Alpha, Gec Master"
+description='''
+Sharks, sharks, and only sharks. Shark mod has done something no Mojang employee dare do... add sharks to Minecraft. It is not the only mod in its catergory, but it is made in pure defiance of Mojang's no - shark vow.
+
+Made with love, cmd - c/cmd - v, and a dose of utter disregard strong enough to override free time with lines upon lines of code.
+'''

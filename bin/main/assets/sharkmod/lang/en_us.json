@@ -1,0 +1,24 @@
+{
+ 
+	"item.sharkmod.raw_loli":"Raw Lollipop Catshark",
+	"item.sharkmod.raw_roughshark":"Raw Caribbean Roughshark",
+	"item.sharkmod.raw_bramble":"Raw Brambleshark",
+	"item.sharkmod.raw_angel":"Raw Angel Shark",
+	"item.sharkmod.raw_spurdog":"Raw Spiny Dogfish",
+	"item.sharkmod.raw_pseudocarcharias":"Raw Crocodile Shark",
+	"item.sharkmod.raw_pseudotriakis":"Raw False Catshark",
+	"item.sharkmod.raw_swellie":"Raw Swellshark",
+	"item.sharkmod.raw_cutter":"Raw Cookiecutter Shark",
+	"item.sharkmod.raw_birdbeak":"Raw Birdbeak Dogfish",
+	"item.sharkmod.raw_sawshark":"Raw Sawshark",
+	"item.sharkmod.raw_gulper":"Raw Gulper Shark",
+	"item.sharkmod.raw_eppie":"Raw Epaulette Shark",
+	"item.sharkmod.raw_prionace":"Raw Blue Shark Steak",
+	"item.sharkmod.raw_prionace":"Raw Sandbar Shark Fillet",
+	"item.sharkmod.cooked_angelshark":"Cooked Angel Shark",
+	"item.sharkmod.cooked_cutter":"Cooked Cookiecutter Shark",
+	"item.sharkmod.cooked_bramble":"Cooked Brambleshark",
+	"item.sharkmod.cooked_birdbeak":"Cooked Birdbeak Dogfish",
+	"block.sharkmod.void_bouncer":"Void Bouncer",
+	"block.sharkmod.sandbarteeth_block":"Sandbar Shark Teeth Block"
+}

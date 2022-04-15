@@ -1,0 +1,7 @@
+Java Launcher: /usr/local/Cellar/openjdk/17.0.2/libexec/openjdk.jdk/Contents/Home/bin/java
+Arguments: '--inJar, /Users/test/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.18.2-40.0.2/forge-1.18.2-40.0.2-injected.jar, --outJar, /Users/test/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.18.2-40.0.2_mapped_official_1.18/forge-1.18.2-40.0.2_mapped_official_1.18.jar, --logFile, accesstransform.log, --atFile, /Users/test/Desktop/sharkmod/build/_atJar_4/parent_at.cfg'
+Classpath:
+ - /Users/test/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/accesstransformers/8.0.7/accesstransformers-8.0.7-fatjar.jar
+Working directory: /Users/test/Desktop/sharkmod/build/_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
